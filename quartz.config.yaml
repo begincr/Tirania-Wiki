@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/begincr/Tirania-Wiki.git
+  baseUrl: begincr.github.io/Tirania-Wiki
   ignorePatterns:
     - private
     - templates
