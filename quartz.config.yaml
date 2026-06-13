@@ -7,7 +7,11 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
+<<<<<<< HEAD
   baseUrl: begincr.github.io/Tirania-wiki
+=======
+  baseUrl: begincr.github.io/Tirania-Wiki
+>>>>>>> 22bf30c4218943d2370b9c55d9cbb94d77475265
   ignorePatterns:
     - private
     - templates
