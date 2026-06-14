@@ -1,1 +1,3 @@
-lista de aliados
+```statblock  
+creature: Kobold  
+```
