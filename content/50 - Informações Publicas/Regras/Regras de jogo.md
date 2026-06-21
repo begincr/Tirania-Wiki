@@ -29,3 +29,5 @@ Sempre que rolar um **1 natural** em qualquer jogada de d20, o resultado é uma 
 > - **Exemplo:** Um Clérigo de nível 8, ao presenciar seus companheiros à beira da morte, clama por intervenção divina. Nesse momento dramático, ele transcende seus limites, subindo para o nível 9 e desbloqueando a magia de 5º nível "Curar Ferimentos em Massa".     
 > - **Nota:** Se a narrativa exigir um avanço imediato para a sobrevivência do grupo, a ascensão é concedida instantaneamente como um milagre, a critério do mestre.
 > - *_não é possível progredir de nível em um descanso sem um justo motivo._ 
+
+###
