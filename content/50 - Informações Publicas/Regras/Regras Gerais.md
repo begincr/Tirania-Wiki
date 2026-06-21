@@ -2,8 +2,7 @@
 #### Definição de Metajogo
 O metajogo é caracterizado por:
 - **Conhecimento de Blocos de Estatísticas:** O jogador sabe exatamente qual é a Classe de Armadura (CA), pontos de vida ou resistências de uma criatura que o personagem nunca enfrentou.    
-- **Spoiler de Narrativa:** O jogador conhece o desfecho de um mistério ou a localização de uma armadilha devido à leitura prévia de materiais ou c 
-- onversas fora de mesa (_importante diferenciar que esse conceito não se aplica a descobrir o plot por conta própria_).    
+- **Spoiler de Narrativa:** O jogador conhece o desfecho de um mistério ou a localização de uma armadilha devido à leitura prévia de materiais ou conversas fora de mesa (_importante diferenciar que esse conceito não se aplica a descobrir o plot por conta própria_).    
 - **Coordenação Irreal:** Personagens agindo em perfeita sincronia **sem terem meios de comunicação ou tempo para planejar**, especialmente quando **separados por longas distâncias** ou impossibilitados de falar.
 
 #### Protocolo de "Suspensão de Descrença"
