@@ -55,4 +55,12 @@ Entendemos que dúvidas de regras, comentários sobre a vida real ou necessidade
 
 > _"O que é dito na mesa, ecoa no mundo de jogo. Pense bem antes de falar algo"_
 
-### 
+### Prerrogativa Heroica
+No coração das nossas histórias, a audácia, a criatividade e a diversão coletiva sempre serão as forças arcanas mais poderosas da mesa. Se um jogador descrever uma ação genuinamente fantástica, emocionante ou hilária, que eleve o clima da sessão e engaje todo o grupo, nenhuma regra puramente escrita ou tecnicismo de livro terá o poder de impedir que isso aconteça. Nesses momentos de pura inspiração, o Mestre utilizará o bom senso para adaptar a mecânica à narrativa, garantindo que o heroísmo e a diversão da mesa sempre superem o preciosismo técnico dos manuais. Afinal, as regras existem para servir à nossa jornada, e não para aprisionar a nossa imaginação.
+
+#### A Regra do Triunfo Incontestável
+Complementando a prerrogativa da narrativa, há momentos em que a engenhosidade do plano ou a pura genialidade da descrição do jogador transcendem a necessidade do azar ou da sorte nos dados. Se a estratégia for perfeitamente arquitetada, explorando com maestria o cenário, as fraquezas do inimigo ou os laços emocionais da cena, o Mestre pode conceder um **20 Natural automático (sucesso crítico)** sem que o jogador precise rolar o $d20$. Essa concessão é o prêmio definitivo para a excelência interpretativa e para o pensamento criativo: quando a ideia é boa demais para ser frustrada por uma jogada ruim, a história simplesmente se curva à grandeza dos heróis.
+
+>*"Manuais e pergaminhos de leis são como as âncoras que os construtores usam para firmar as pedras de uma fortaleza; eles dão forma e estabilidade ao chão que pisamos. Mas quando os heróis agem com tamanha audácia, quando a melodia de sua bravura e o peso de sua estratégia ecoam mais alto do que o próprio bater de asas de um dragão, a mecânica do mundo precisa se curvar à grandeza da alma. Nesses momentos de puro triunfo, onde o plano é perfeito e o espírito é indomável, o dado descansa, pois o destino já foi selado pela própria vontade dos deuses."* ~~fragmento de texto recuperado em notas deixadas para trás pelo Culto do Dragão~~ 
+
+

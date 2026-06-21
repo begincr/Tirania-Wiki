@@ -30,4 +30,9 @@ Sempre que rolar um **1 natural** em qualquer jogada de d20, o resultado é uma 
 > - **Nota:** Se a narrativa exigir um avanço imediato para a sobrevivência do grupo, a ascensão é concedida instantaneamente como um milagre, a critério do mestre.
 > - *_não é possível progredir de nível em um descanso sem um justo motivo._ 
 
-###
+### Jogada de Sorte
+Em determinados momentos o mestre irá solicitar uma jogada de sorte! (d20 seco). 
+Essa jogada serve para determinar acontecimentos do mundo (ou dungeon) em quem nenhuma ação dos personagens pode intervir, senão a sorte no dado.
+
+A dificuldade será sempre revelada ao jogador (ex: vocês não querem um resultado entre 1 e 5) se forem sortudos o resultado dessa jogada nem sempre vai ser revelado aos jogadores, caso a sorte **não** esteja a favor dos heróis existe 95% de chance deles saberem o que acontece. Muahahahaha
+
