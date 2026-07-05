@@ -24,7 +24,7 @@
     
 - **Governador Tarbaw Nighthill:** O governante de Ninho Verde, visto no topo das muralhas coordenando os arqueiros contra os invasores, apresentando ferimentos severos de combate.
     
-- **O Velho dos Canários (Avatar de Bahamut):** Um misterioso ancião acompanhado por sete canários dourados e uma mulher que profetizaram os eventos apocalípticos através de uma canção.
+- **O Velho dos Canários:** Um misterioso ancião acompanhado por sete canários dourados e uma mulher que profetizaram os eventos apocalípticos através de uma canção.
     
 
 ### 4. Ganchos de História
