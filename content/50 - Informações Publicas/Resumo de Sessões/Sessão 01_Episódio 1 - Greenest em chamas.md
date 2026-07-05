@@ -15,7 +15,7 @@
 
 ### 2. Itens e Loots Adquiridos
 
-- **Pé de Cabra Improvisado:** Ferramenta utilizada e mantida por Ludwig para arrombar os acessos de ferro do forte.
+- 
     
 
 ### 3. NPCs Encontrados

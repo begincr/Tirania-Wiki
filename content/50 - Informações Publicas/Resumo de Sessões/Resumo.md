@@ -1,1 +1,0 @@
-[[50 - Informações Publicas/Resumo de Sessões/greenest.png]]
