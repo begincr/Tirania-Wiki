@@ -31,7 +31,7 @@
 
 - **A Defesa do Forte:** O dragão azul adulto continua circulando os céus e o forte está cercado. O grupo precisa se apresentar ao Governador Nighthill para ajudar a repelir o cerco ou realizar missões de sally port/contra-ataque de dentro das muralhas.
     
-- **Identidade do Culto:** Sabine obteve as primeiras pistas sobre a ligação dos saqueadores com o Culto do Dragão na Costa da Espada. O grupo precisará interrogar prisioneiros para descobrir o propósito do roubo de tesouros.
+- **Identidade do Culto:** O grupo obteve as primeiras pistas sobre a ligação dos saqueadores com o Culto do Dragão na Costa da Espada. O grupo precisará interrogar prisioneiros para descobrir o propósito do roubo de tesouros.
     
 - **Investigação do Contato:** O grupo pode descobrir o paradeiro do contato dos Harpistas (_Harpers_) que rumou ao norte seguindo uma pista sobre o Culto do Dragão
 
